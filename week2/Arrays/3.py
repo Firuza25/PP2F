@@ -1,0 +1,7 @@
+#Измените значение первого элемента массива:
+cars = ["Ford", "Volvo", "BMW"]
+
+cars[0] = "Toyota"
+
+print(cars)
+
