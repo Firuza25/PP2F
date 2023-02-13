@@ -21,3 +21,4 @@ class Point:
         
     def show_dist(self):
         print(self.dist)
+        #

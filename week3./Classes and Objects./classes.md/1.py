@@ -11,3 +11,4 @@ class upstr():
 string=upstr()
 string.getString()
 string.printString()
+#

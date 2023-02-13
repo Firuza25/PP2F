@@ -17,3 +17,4 @@ Asqr = Square(5)
 print(Asqr.area())      # prints 25 as given argument
 
 print(Square().area())  # prints zero as default area
+#
