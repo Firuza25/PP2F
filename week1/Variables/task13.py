@@ -7,6 +7,7 @@ print(x + y)
  оператора +, Python выдаст нам ошибку
 
 '''
+
 x = 5
 y = "John"
 print(x, y)
